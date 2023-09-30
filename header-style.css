@@ -1,0 +1,40 @@
+.header{
+  background-color: rgb(237, 226, 205);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  font-family: Josefin Sans;
+}
+
+.nav-text{
+  text-decoration: none;
+  color: black;
+  margin-right: 30px;
+  font-family: Josefin Sans;
+}
+
+.mise{
+  position: relative;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.mise-text{
+  font-family: Josefin Sans;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.copy{
+  text-align: center;
+  color: rgb(196, 196, 196);
+}
+
+.copy-right{
+  margin-top: 50px;
+}
